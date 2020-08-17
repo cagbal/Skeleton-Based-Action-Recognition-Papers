@@ -246,6 +246,7 @@ Notes:
 
 **Websites for Skeleton-based Action Recognition Papers**
 - https://paperswithcode.com/task/skeleton-based-action-recognition (Nice benchmarks, link to codes and papers, well organized)
+- https://skeleton.iiit.ac.in/ (an interactive dashboard showing detailed performance plots of top performing models for NTU-120 dataset, code and pre-trained models for top-performers, including our novel ensemble which achieves state-of-the-art performance on NTU-120 and new skeleton action datasets (skeletics-152, skeleton-mimetics) and pre-trained models
 
 ------------
 #### Acknowledgement 
